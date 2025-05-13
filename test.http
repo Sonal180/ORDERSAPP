@@ -1,0 +1,6 @@
+##GET http://localhost:4004/odata/v4/catalog/OrderIems
+
+##Authorization
+
+GET http://localhost:4004/odata/v4/restricted/OrderIems
+Authorization: BASIC admin

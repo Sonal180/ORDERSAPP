@@ -1,0 +1,6 @@
+ID,orderDate,status,totalAmount,createdBy
+1;2023-10-01,Completed,100.00,johndoe
+2;2023-10-02,Pending,50.00,janedoe
+3;2023-10-03,Cancelled,75.00,alice
+4;2023-10-04,Completed,120.00,johndoe
+5;2023-10-05,Pending,30.00,bob
